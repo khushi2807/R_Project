@@ -1,9 +1,9 @@
 # R_Project
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smithsonianmag.com%2Finnovation%2Fis-hacking-photosynthesis-the-key-to-increasing-crop-yields-180981144%2F&psig=AOvVaw0Q2eoVFduxSwQjQvSkUMjX&ust=1702051395506000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiwxeDZ_YIDFQAAAAAdAAAAABAI]
+![https://imgur.com/t3IvBNL]
 
 # Crop Recommendation App
 
-![App Screenshot](<add_screenshot_url_here>)
+![App Screenshot](<https://imgur.com/P3zizag>)
 
 ## Overview
 
@@ -19,11 +19,11 @@ This Shiny web application provides a crop recommendation based on input paramet
 
 ## Screenshots
 
-![Prediction](<add_prediction_screenshot_url_here>)
-![Average Parameter Levels](<add_avg_param_screenshot_url_here>)
-![Crop Distribution](<add_crop_dist_screenshot_url_here>)
-![Sample Data](<add_sample_data_screenshot_url_here>)
-![Parameter Graphs](<add_param_graphs_screenshot_url_here>)
+![Prediction](<https://imgur.com/PIBKGKM>)
+![Average Parameter Levels](<https://imgur.com/IBPoTsy>)
+![Crop Distribution](<https://imgur.com/kP7Fixk>)
+![Sample Data](<https://imgur.com/hbOs93F>)
+![Parameter Graphs](<https://imgur.com/am8AKCg>)
 
 ## Getting Started
 
@@ -67,7 +67,7 @@ This Shiny web application provides a crop recommendation based on input paramet
 ## Contributors
 
 - [Khushi Jain](https://github.com/khushi2807)
-- [Manogya Jain]
+- [Manogya Jain](https://github.com/)
 
 ## License
 
@@ -79,6 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Replace <add_screenshot_url_here>, <add_prediction_screenshot_url_here>, and other placeholders with the actual URLs of your screenshots. If you haven't uploaded the screenshots yet, you can add them later.
 
-Feel free to include more details, documentation, or sections based on the complexity and specific aspects of your project.
