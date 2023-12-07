@@ -1,5 +1,5 @@
 # R_Project
-![https://github.com/khushi2807/R_Project/blob/main/1.jpg]
+![./1.jpg]
 
 # Crop Recommendation App
 
