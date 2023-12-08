@@ -1,9 +1,9 @@
 # R_Project
-![./1.jpg]
+![1](https://github.com/khushi2807/R_Project/assets/109760268/777ea941-06f9-445f-b043-cc140e4d9c6c)
 
 # Crop Recommendation App
 
-![App Screenshot](<https://imgur.com/P3zizag>)
+![App Screenshot](https://github.com/khushi2807/R_Project/assets/109760268/ee522e4b-825f-4a7c-85d8-1ab1ad3cf3fd)
 
 ## Overview
 
@@ -19,30 +19,37 @@ This Shiny web application provides a crop recommendation based on input paramet
 
 ## Screenshots
 
-![Prediction](<https://imgur.com/PIBKGKM>)
-![Average Parameter Levels](<https://imgur.com/IBPoTsy>)
-![Crop Distribution](<https://imgur.com/kP7Fixk>)
-![Sample Data](<https://imgur.com/hbOs93F>)
-![Parameter Graphs](<https://imgur.com/am8AKCg>)
+<img src="https://github.com/khushi2807/R_Project/assets/109760268/c05f9e97-db43-426f-8aca-3eb55faa5024" width="400">
+
+<img src="https://github.com/khushi2807/R_Project/assets/109760268/7be15047-86fb-4890-b255-d5600a0de6f8" width="450">
+
+<img src="https://github.com/khushi2807/R_Project/assets/109760268/0e7eeeec-071a-4c7a-ac24-564b99bdc721" width="400">
+
+<img src="https://github.com/khushi2807/R_Project/assets/109760268/c1270d27-b8c7-4452-a4e1-1bc6eef6e131" width="500">
+
+<img src="https://github.com/khushi2807/R_Project/assets/109760268/85050fd9-954a-4cd8-bc74-e5618db9b89f" width="450">
+
+
+
 
 ## Getting Started
 
 ### Prerequisites
 
-- [R](https://www.r-project.org/) (version x.x.x)
-- [Shiny](https://shiny.rstudio.com/) (version x.x.x)
-- [Caret](https://topepo.github.io/caret/index.html) (version x.x.x)
-- [Rpart](https://cran.r-project.org/web/packages/rpart/index.html) (version x.x.x)
-- [Shinyjs](https://cran.r-project.org/web/packages/shinyjs/index.html) (version x.x.x)
-- [Shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html) (version x.x.x)
-- [Plotly](https://plotly.com/r/) (version x.x.x)
+- [R](https://www.r-project.org/) (version 4.3.2 )
+- [Shiny](https://shiny.rstudio.com/) (version 1.8.0)
+- [Caret](https://topepo.github.io/caret/index.html) (version 6.0-94)
+- [Rpart](https://cran.r-project.org/web/packages/rpart/index.html) (version 4.1.23)
+- [Shinyjs](https://cran.r-project.org/web/packages/shinyjs/index.html) (version 2.1.0)
+- [Shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html) (version 0.7.2)
+- [Plotly](https://plotly.com/r/) (version 5.18.0)
 - ...
 
 ### Installation
 
 1. Clone the repository:
 
-      git clone https://github.com/your-username/crop-recommendation-app.git
+      git clone https://github.com/khushi2807/crop-recommendation-app.git
    
 
 2. Install required R packages:
@@ -67,11 +74,9 @@ This Shiny web application provides a crop recommendation based on input paramet
 ## Contributors
 
 - [Khushi Jain](https://github.com/khushi2807)
-- [Manogya Jain](https://github.com/)
+- [Manogya Jain](https://github.com/ManogyaJain02)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
